@@ -3,4 +3,4 @@
 Новиков Владимир Дмитриевич  
 РТУ МИРЭА  
 
-[Репозиторий проекта](https://github.com/novd7/ono-tebe-nado-ad)
+https://github.com/novd7/ono-tebe-nado-ad
